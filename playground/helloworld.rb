@@ -1,3 +1,3 @@
 # frozen_string_literal: true
 
-puts 'hello worl'
+puts "hello worl"
